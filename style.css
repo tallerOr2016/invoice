@@ -52,16 +52,12 @@ table {
 th, td {
     border: 1px solid #000; /* Añadido un borde sólido para todas las celdas */
     padding: 0.5em;
+    text-align: left;
 }
 
 th {
     background: #EEE;
-    text-align: left;
-}
-
-td {
-    text-align: center;
-}
+}    
 
 /* page */
 html {
